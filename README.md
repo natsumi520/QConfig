@@ -3,9 +3,9 @@ QConfig 程序说明
 
 ### 欢迎使用 QConfig 程序。
 
-[看看英文版本！](https://gitee.com/steve372/nya-software/blob/master/README_EN.md "求白嫖吖 English README")
+[看看英文版本！](https://github.com/natsumi520/QConfig/blob/main/README_EN.md "求白嫖吖 English README")
 
-[再看看日语版本！](https://gitee.com/steve372/nya-software/blob/master/README_JP.md "求白嫖吖 Japanese README")
+[再看看日语版本！](https://github.com/natsumi520/QConfig/blob/main/README_JP.md "求白嫖吖 Japanese README")
 
 Qconfig 提供了一个简单的，快速地配置的 QEMU 方法。另外兼容性做了优化，几乎不需要任何依赖。
 
