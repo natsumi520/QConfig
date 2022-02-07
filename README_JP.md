@@ -3,9 +3,9 @@ QConfigプログラムの説明
 
 ### QConfigプログラムへようこそ。
 
-[英語版を見てください！ ](https://gitee.com/steve372/nya-software/blob/master/README_EN.md "English README.md")
+[英語版を見てください！ ](https://github.com/natsumi520/QConfig/blob/main/README_EN.md "English README.md")
 
-[中国語版を見て！ ](https://gitee.com/steve372/nya-software/blob/master/README.md "Chinese README.md")
+[中国語版を見て！ ](https://github.com/natsumi520/QConfig/blob/main/README.md "Chinese README.md")
 
 Qconfigは、QEMUを構成するための簡単で迅速な方法を提供します。さらに、互換性が最適化されており、依存関係はほとんど必要ありません。
 
